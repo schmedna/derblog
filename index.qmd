@@ -1,0 +1,10 @@
+---
+title: "my Blog"
+author: "edna"
+format: html
+editor: visual
+---
+
+## hello
+
+Just trying to setup this website with quarto.

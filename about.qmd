@@ -1,0 +1,7 @@
+---
+title: "About me"
+format: html
+editor: visual
+---
+
+Hi, I'm Edna. I'm a writer. You'll see.
