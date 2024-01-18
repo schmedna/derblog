@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my Blog",
+    "section": "",
+    "text": "Just trying to setup this website with quarto."
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "my Blog",
+    "section": "",
+    "text": "Just trying to setup this website with quarto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Hi, I’m Edna. I’m a writer. You’ll see."
+  }
+]
