@@ -4,7 +4,22 @@ project:
 
 website: 
   title: "my Blog"
+  site-url: https://schmedna.github.io/myblog/
   navbar: 
+    search: true
     left: 
-      - index.qmd
-      - about.qmd
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+    right: 
+      - icon: rss
+      
+  sidebar: 
+    style: docked
+    search: true
+    contents: 
+      - section: "Blog Entries"
+        contents: 
+          - files/entry1.qmd
+          - files/entry2.qmd
