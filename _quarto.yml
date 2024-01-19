@@ -12,3 +12,10 @@ website:
         text: Literature Entries
       - href: about.qmd
         text: about
+
+  sidebar: 
+    contents: 
+      - href: docs/files/entry1.qmd
+        text: my first entry
+      - href: docs/files/entry2.qmd
+        text: and another one
