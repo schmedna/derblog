@@ -14,10 +14,31 @@
     "text": "Just trying to setup this website with quarto."
   },
   {
+    "objectID": "files/entry1.html",
+    "href": "files/entry1.html",
+    "title": "my first entry",
+    "section": "",
+    "text": "this is my first real entry to see how I can upload new ones.\nthere’s still not happening much here. I just need to figure out the layout of it all."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
     "section": "",
     "text": "Hi, I’m Edna. I’m a writer. You’ll see."
+  },
+  {
+    "objectID": "entries.html",
+    "href": "entries.html",
+    "title": "Entries",
+    "section": "",
+    "text": "These are the entries I have so far. Click on them to get to the article.\nEntry 1 Entry 2"
+  },
+  {
+    "objectID": "files/entry2.html",
+    "href": "files/entry2.html",
+    "title": "my second entry",
+    "section": "",
+    "text": "and this is my second one, just to get an idea how this might work."
   }
 ]
