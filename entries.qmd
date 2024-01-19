@@ -1,0 +1,10 @@
+---
+title: "Entries"
+format: html
+editor: visual
+---
+
+These are the entries I have so far. Click on them to get to the article.
+
+[Entry 1](files/entry1.qmd)
+[Entry 2](files/entry2.qmd)
