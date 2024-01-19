@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://schmedna.github.io/myblog/index.html</loc>
-    <lastmod>2024-01-18T23:01:41.530Z</lastmod>
+    <lastmod>2024-01-19T00:39:08.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://schmedna.github.io/myblog/files/entry1.html</loc>
+    <lastmod>2024-01-19T00:39:05.313Z</lastmod>
   </url>
   <url>
     <loc>https://schmedna.github.io/myblog/about.html</loc>
-    <lastmod>2024-01-18T23:01:39.732Z</lastmod>
+    <lastmod>2024-01-19T00:39:01.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://schmedna.github.io/myblog/entries.html</loc>
+    <lastmod>2024-01-19T00:39:03.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://schmedna.github.io/myblog/files/entry2.html</loc>
+    <lastmod>2024-01-19T00:39:06.512Z</lastmod>
   </url>
 </urlset>
