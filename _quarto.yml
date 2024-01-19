@@ -14,8 +14,15 @@ website:
         text: about
 
   sidebar: 
+    style: docked
     contents: 
       - href: docs/files/entry1.qmd
         text: my first entry
       - href: docs/files/entry2.qmd
         text: and another one
+        
+format: 
+  html: 
+    theme: sandstone
+    css: styles.css
+    toc: true
