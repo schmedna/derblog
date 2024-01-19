@@ -6,6 +6,9 @@ website:
   title: "my Blog"
   navbar: 
     left: 
-      - index.qmd
-      - entries.qmd
-      - about.qmd
+      - href: index.qmd
+        text: Home
+      - href: entries.qmd
+        text: Literature Entries
+      - href: about.qmd
+        text: about
