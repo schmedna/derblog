@@ -1,0 +1,9 @@
+---
+title: "my first entry"
+format: html
+editor: visual
+---
+
+this is my first real entry to see how I can upload new ones. 
+
+there's still not happening much here. I just need to figure out the layout of it all.
