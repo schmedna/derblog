@@ -2,36 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my Blog",
+    "title": "Willkommen zum Blog",
     "section": "",
-    "text": "Just trying to setup this website with quarto."
+    "text": "Wilkommen bei meinem Blog. Ich muss noch schauen, was ich hier veröffentlichen will. Solange hier noch Baustelle ist, gibt es hier nicht sonderlich viel zu sehen. Aber ich bin großer Fans von Video-Essays und guter Recherche zu wissenschaftlichen Themen.\nIch würde gerne besser im Recherchieren werden und hatte vor, hier meine Ergebnisse zu teilen."
   },
   {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "Welcome to my Blog",
+    "objectID": "index.html#hallo",
+    "href": "index.html#hallo",
+    "title": "Willkommen zum Blog",
     "section": "",
-    "text": "Just trying to setup this website with quarto."
+    "text": "Wilkommen bei meinem Blog. Ich muss noch schauen, was ich hier veröffentlichen will. Solange hier noch Baustelle ist, gibt es hier nicht sonderlich viel zu sehen. Aber ich bin großer Fans von Video-Essays und guter Recherche zu wissenschaftlichen Themen.\nIch würde gerne besser im Recherchieren werden und hatte vor, hier meine Ergebnisse zu teilen."
   },
   {
-    "objectID": "files/entry1.html",
-    "href": "files/entry1.html",
-    "title": "my first entry",
+    "objectID": "docs/entries/entry1.html",
+    "href": "docs/entries/entry1.html",
+    "title": "mein erster Eintrag",
     "section": "",
-    "text": "this is my first real entry to see how I can upload new ones. CHANGE!\nthere’s still not happening much here. I just need to figure out the layout of it all."
+    "text": "Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge sortiere."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About me",
+    "title": "Über mich",
     "section": "",
-    "text": "Hi, I’m Edna. I’m a writer. You’ll see."
+    "text": "Hi, ich bin Edna. Ich schreibe gelegentlich. Und ich hatte Lust diese Webseite zu programmieren."
   },
   {
-    "objectID": "files/entry2.html",
-    "href": "files/entry2.html",
-    "title": "my second entry",
+    "objectID": "docs/entries/entry2.html",
+    "href": "docs/entries/entry2.html",
+    "title": "zweiter Eintrag",
     "section": "",
-    "text": "and this is my second one, just to get an idea how this might work."
+    "text": "Und hier ist noch einer."
   }
 ]
