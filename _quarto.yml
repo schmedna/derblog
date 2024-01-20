@@ -20,3 +20,7 @@ website:
         text: my first entry
       - href: docs/files/entry2.qmd
         text: and another one
+
+format: 
+  html: 
+    theme: cyborg
