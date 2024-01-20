@@ -16,9 +16,9 @@ website:
   sidebar: 
     style: docked
     contents: 
-      - href: docs/files/entry1.qmd
+      - href: files/entry1.qmd
         text: my first entry
-      - href: docs/files/entry2.qmd
+      - href: files/entry2.qmd
         text: and another one
 
 format: 
