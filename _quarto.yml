@@ -15,7 +15,13 @@ website:
         text: my first entry
       - href: files/entry2.qmd
         text: and another one
-
+  
+  page-footer: 
+    left: "Copyright 2024, Edna Grewers"
+    right: 
+      - icon: github
+        href: https://github.com
+  
 format: 
   html: 
     theme: darkly
