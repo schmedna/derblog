@@ -14,7 +14,7 @@ website:
       - href: docs/entries/entry1.qmd
         text: mein erster Eintrag
       - href: docs/entries/entry2.qmd
-        text: and another one
+        text: zweiter Eintrag
   
   page-footer: 
     center: "Copyright 2024, Edna Grewers"
