@@ -12,7 +12,7 @@ website:
     style: docked
     contents: 
       - href: docs/entries/entry1.qmd
-        text: my first entry
+        text: mein erster Eintrag
       - href: docs/entries/entry2.qmd
         text: and another one
   

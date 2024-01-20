@@ -1,9 +1,7 @@
 ---
-title: "my first entry"
+title: "mein erster Eintrag"
 format: html
 editor: visual
 ---
 
-this is my first real entry to see how I can upload new ones. CHANGE!
-
-there's still not happening much here. I just need to figure out the layout of it all.
+Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge sortiere.
