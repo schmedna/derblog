@@ -1,6 +1,5 @@
 ---
-title: "my Blog"
-author: "edna"
+title: "Welcome to my Blog"
 format: html
 editor: visual
 ---
