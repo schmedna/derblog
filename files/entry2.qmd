@@ -1,7 +1,0 @@
----
-title: "my second entry"
-format: html
-editor: visual
----
-
-and this is my second one, just to get an idea how this might work. 
