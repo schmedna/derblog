@@ -2,16 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my Blog",
+    "title": "Welcome to my Blog",
     "section": "",
     "text": "Just trying to setup this website with quarto."
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
-    "title": "my Blog",
+    "title": "Welcome to my Blog",
     "section": "",
     "text": "Just trying to setup this website with quarto."
+  },
+  {
+    "objectID": "files/entry1.html",
+    "href": "files/entry1.html",
+    "title": "my first entry",
+    "section": "",
+    "text": "this is my first real entry to see how I can upload new ones. CHANGE!\nthere’s still not happening much here. I just need to figure out the layout of it all."
   },
   {
     "objectID": "about.html",
@@ -19,5 +26,12 @@
     "title": "About me",
     "section": "",
     "text": "Hi, I’m Edna. I’m a writer. You’ll see."
+  },
+  {
+    "objectID": "files/entry2.html",
+    "href": "files/entry2.html",
+    "title": "my second entry",
+    "section": "",
+    "text": "and this is my second one, just to get an idea how this might work."
   }
 ]
