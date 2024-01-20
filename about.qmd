@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "Über mich"
 format: html
 editor: visual
 ---
 
-Hi, I'm Edna. I'm a writer. You'll see.
+Hi, ich bin Edna. Ich schreibe gelegentlich. Und ich hatte Lust diese Webseite zu programmieren.

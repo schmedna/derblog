@@ -6,7 +6,7 @@ website:
   navbar: 
     left: 
       - href: about.qmd
-        text: about
+        text: über mich
 
   sidebar: 
     style: docked
