@@ -6,8 +6,6 @@ website:
   title: "the Blog"
   navbar: 
     left: 
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: about
 
