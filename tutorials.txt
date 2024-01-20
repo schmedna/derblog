@@ -1,0 +1,19 @@
+here I just collect infos or tutorials, to look up stuff.
+
+## quarto themes ## 
+https://quarto.org/docs/output-formats/html-themes.html
+
+## design von gh-pages mit Jekyll ##
+https://docs.github.com/de/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+
+
+## how to get started with quarto ##
+https://quarto.org/docs/get-started/hello/rstudio.html
+
+## publish a website via quarto ## 
+https://quarto.org/docs/publishing/github-pages.html#source-branch
+
+
+
+
+
