@@ -4,17 +4,19 @@ project:
 website: 
   title: "der Blog"
   navbar: 
-    left: 
+    right: 
       - href: about.qmd
         text: über mich
 
   sidebar: 
     style: docked
     contents: 
-      - href: docs/entries/entry1.qmd
-        text: mein erster Eintrag
-      - href: docs/entries/entry2.qmd
-        text: zweiter Eintrag
+      - section: 
+        contents: 
+        - href: docs/entries/entry1.qmd
+          text: mein erster Eintrag
+        - href: docs/entries/entry2.qmd
+          text: zweiter Eintrag
   
   page-footer: 
     center: "Copyright 2024, Edna Grewers"
