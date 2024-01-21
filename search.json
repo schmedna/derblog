@@ -4,21 +4,28 @@
     "href": "index.html",
     "title": "Willkommen beim Blog",
     "section": "",
-    "text": "Wilkommen bei meinem Blog. Ich muss noch schauen, was ich hier veröffentlichen will. Solange hier noch Baustelle ist, gibt es hier nicht sonderlich viel zu sehen. Aber ich bin großer Fans von Video-Essays und guter Recherche zu wissenschaftlichen Themen.\nIch würde gerne besser im Recherchieren werden und hatte vor, hier meine Ergebnisse zu teilen."
+    "text": "Wilkommen bei meinem Blog. Ich muss noch schauen, was ich hier veröffentlichen will. Solange hier noch Baustelle ist, gibt es hier nicht sonderlich viel zu sehen. Aber ich bin großer Fan von Video-Essays und guter Recherche zu wissenschaftlichen Themen.\nIch würde gerne besser im Recherchieren werden und hatte vor, hier meine Ergebnisse zu teilen."
   },
   {
     "objectID": "index.html#hallo",
     "href": "index.html#hallo",
     "title": "Willkommen beim Blog",
     "section": "",
-    "text": "Wilkommen bei meinem Blog. Ich muss noch schauen, was ich hier veröffentlichen will. Solange hier noch Baustelle ist, gibt es hier nicht sonderlich viel zu sehen. Aber ich bin großer Fans von Video-Essays und guter Recherche zu wissenschaftlichen Themen.\nIch würde gerne besser im Recherchieren werden und hatte vor, hier meine Ergebnisse zu teilen."
+    "text": "Wilkommen bei meinem Blog. Ich muss noch schauen, was ich hier veröffentlichen will. Solange hier noch Baustelle ist, gibt es hier nicht sonderlich viel zu sehen. Aber ich bin großer Fan von Video-Essays und guter Recherche zu wissenschaftlichen Themen.\nIch würde gerne besser im Recherchieren werden und hatte vor, hier meine Ergebnisse zu teilen."
   },
   {
     "objectID": "docs/entries/entry1.html",
     "href": "docs/entries/entry1.html",
     "title": "mein erster Eintrag",
     "section": "",
-    "text": "Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge sortiere."
+    "text": "Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge1 sortiere."
+  },
+  {
+    "objectID": "docs/entries/entry1.html#footnotes",
+    "href": "docs/entries/entry1.html#footnotes",
+    "title": "mein erster Eintrag",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFußnote zu Quellen etc.↩︎"
   },
   {
     "objectID": "about.html",
