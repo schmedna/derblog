@@ -4,4 +4,6 @@ format: html
 editor: visual
 ---
 
-Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge sortiere.
+Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge[^1] sortiere.
+
+[^1]: Fußnote zu Quellen etc. 
