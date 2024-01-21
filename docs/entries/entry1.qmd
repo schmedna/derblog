@@ -1,9 +1,14 @@
 ---
 title: "mein erster Eintrag"
+abstract-title: "content note"
+abstract: "tbd"
+author: Edna Grewers
+date: today
+date-format: "D MMM YYYY"
 format: html
 editor: visual
 ---
 
 Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge[^1] sortiere.
 
-[^1]: Fußnote zu Quellen etc. 
+[^1]: Fußnote zu Quellen etc.
