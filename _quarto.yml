@@ -4,6 +4,9 @@ project:
 website: 
   title: "der Blog"
   navbar: 
+    left: 
+      - href: docs/dinos/dino_intro.qmd
+        text: Dinos
     right: 
       - href: about.qmd
         text: über mich
@@ -17,6 +20,14 @@ website:
           text: mein erster Eintrag
         - href: docs/entries/entry2.qmd
           text: zweiter Eintrag
+      - section: "Dinos"
+        contents: 
+        - href: docs/dinos/dino_intro.qmd
+          text: Intro on Dinos
+      - section: "Biologie"
+        contents: 
+          #- href: docs/entries/entry1.qmd
+          #text: Wechseljahre
   
   page-footer: 
     center: "Copyright 2024, Edna Grewers"
