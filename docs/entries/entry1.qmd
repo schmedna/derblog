@@ -8,7 +8,10 @@ date-format: "D MMM YYYY"
 format: html
 editor: visual
 ---
+[^1]
+
 
 Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge[^1] sortiere.
 
-[^1]: Fußnote zu Quellen etc.
+
+[^1]:Author: Edna Grewers, published on 21 JAN 2024. 
