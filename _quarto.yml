@@ -22,7 +22,7 @@ website:
           text: zweiter Eintrag
       - section: "Dinos"
         contents: 
-        - href: docs/dinos/dino_intro.qmd
+        - href: docs/dinos/dino_example.qmd
           text: Intro on Dinos
       - section: "Biologie"
         contents: 
