@@ -1,17 +1,18 @@
 ---
 title: "mein erster Eintrag"
-#abstract-title: "content note"
-#abstract: "tbd"
-#author: Edna Grewers
-#date: today
-#date-format: "D MMM YYYY"
+abstract-title: "content note"
+abstract: "[*test entries*]{style='color:darkgreen'}"
+author: "[Edna Grewers]{style='color:gray'}"
+date: 21 Jan 2024
+date-format: "D MMM YYYY"
 format: html
 editor: visual
 ---
-[^1]
 
 
-Hier ist mein erster Test-Eintrag, um zu schauen, wie ich verschiedene Beiträge sortiere.
+### [Title 1]{style="color:violet"}
+
+Hier ist mein erster [Test-Eintrag]{style="color:rgb(255, 0, 255"}, um zu schauen, wie ich verschiedene [Beiträge]{style="color:#D100D1"} sortiere.
+available colours: blue, lightblue, green, darkgreen, pink, black, gray ...
 
 
-[^1]:Author: Edna Grewers, published on 21 JAN 2024. 

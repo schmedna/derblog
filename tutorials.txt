@@ -17,7 +17,8 @@ https://quarto.org/docs/get-started/hello/rstudio.html
 ## publish a website via quarto ## 
 https://quarto.org/docs/publishing/github-pages.html#source-branch
 
-
+## HTML COLOR ##
+https://www.w3schools.com/html/html_colors.asp
 
 
 
