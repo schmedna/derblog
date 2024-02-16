@@ -9,7 +9,7 @@ format: html
 editor: visual
 ---
 
-[*CN: dinos. *]{style='color:darkgreen'}
+[*CN: dinos.*]{style='color:darkgreen'}
 [published: 16 Feb 2024 by Edna Grewers]{style='color:gray'}
 
 ### [Wieso Dinos?]{style="color:violet"}
