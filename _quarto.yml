@@ -40,4 +40,6 @@ website:
   
 format: 
   html: 
-    theme: darkly.scss
+    theme: 
+      - darkly
+      - custom.scss  #/*-- scss:defaults --*/
