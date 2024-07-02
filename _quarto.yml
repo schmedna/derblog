@@ -42,4 +42,4 @@ format:
   html: 
     theme: 
       - darkly
-      - custom.scss  #/*-- scss:defaults --*/
+      - custom.scss

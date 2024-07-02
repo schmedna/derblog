@@ -53,23 +53,41 @@ $cyan:    #3498db !default;
 
 // Links
 
-$link-color:                $yellow !default;
-
+$link-color:                $yellow ;
 
 /* unvisited link */
-a:link {
-  color: $cyan;
-}
+//a:link {
+//  color: $cyan;
+//}
 
 /* visited link */
-a:visited {
-  color: $indigo;
-}
+//a:visited {
+//  color: $purple;
+//}
 
 /* mouse over link */
-a:hover {
-  color: $teal;
+//a:hover {
+//  color: $red;
+//}
+/* selected link */
+//a:active {
+//  color: $cyan;
+//}
+
+a {
+   color: $red;
+   text-decoration: none;
+   color: $red;
+
+   &:visited{
+    opacity: 0.42;
+  }
+  &:hover{
+    opacity: 0.7;
+    text-decoration: underline;
+  }
+  &:active{
+    opacity: 1;
+    text-decoration: none;
+  }
 }
-
-
-
