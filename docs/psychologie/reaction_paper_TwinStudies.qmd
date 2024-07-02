@@ -18,10 +18,10 @@ In der Konklusion betont Felson, dass es sozialen Kontext braucht, damit sich Ge
 
 Nach lesen des Papers scheinen weder EEA, noch genomweite Studien die perfekte Art zu sein, um den Zusammenhäng zwischen Genetik, Umwelteinflüssen und Verhalten oder Merkmalen zu untersuchen. Beide haben Vor- aber auch Nachteile. Man sollte also entweder beide nutzen, oder weiteren Designs erarbeiten. Statt mit Zwillingen könnte man auch mit statistischen Zwillingen die Zusammenhänge zwischen Genetik und Verhalten untersuchen. Dabei könnte man Informationen aus genomweiten Studien nutzen, um statistische Zwillinge zu bilden. Auch hier sollten sich sowohl die Genotypen als auch die Umwelt angeschaut werden. Diese untersucht man dann ähnlich wie bei klassischen Zwillingsstudien bzw. wie Zwillinge, die getrennt aufgewachsen sind. Vorteile könnten repräsentativere Stichproben sein. Nachteile wären, dass man neben der genetischen Information noch Fragebogenerhebungen machen müsste.
 
-### [Literatur]{style="color:violet"}
+### Literatur
 
 Brocke, B., Müller, J., Strobel, A. (2006). *Verhaltensgenetische Ansätze und Theorien der Persönlichkeitsforschung, Kapitel 25 Verhaltensgenetik* (pp. 355-361). Hogrefe
 
-Felson, J. (2014). What can we learn from twin studies? A comprehensive evaluation of the equal environments assumption. *Social Science Research, 43*, 184–199. [https://doi.org/10.1016/j.ssresearch.2013.10.004](https://doi.org/10.1016/j.ssresearch.2013.10.004)
+Felson, J. (2014). What can we learn from twin studies? A comprehensive evaluation of the equal environments assumption. *Social Science Research, 43*, 184–199. <https://doi.org/10.1016/j.ssresearch.2013.10.004>{style="color:#3498db"}
 
-Schulze, R. (2023, May 3). Big Five Persönlichkeitsfaktoren. *Spektrum Akademischer Verlag*. [https://www.spektrum.de/lexikon/psychologie/big-five-persoenlichkeitsfaktoren/2360](https://www.spektrum.de/lexikon/psychologie/big-five-persoenlichkeitsfaktoren/2360){style="color:lightblue"}
+Schulze, R. (2023, May 3). Big Five Persönlichkeitsfaktoren. *Spektrum Akademischer Verlag*. <https://www.spektrum.de/lexikon/psychologie/big-five-persoenlichkeitsfaktoren/2360>{style="color:#3498db"}

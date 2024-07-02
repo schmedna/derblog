@@ -26,7 +26,7 @@ website:
           #text: Wechseljahre
       - section: "Dinos"
         contents: 
-        - href: docs/dinos/dino_example.qmd
+        - href: docs/dinos/dino_intro.qmd
           text: Intro on Dinos
       - section: "Psychologie"
         contents: 

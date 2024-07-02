@@ -29,13 +29,18 @@ $green:   #00bc8c !default;
 $teal:    #20c997 !default;
 $cyan:    #3498db !default;
 
+$fuchsia: #EF2B7C !default;
+$fuchsia2: #ff00ff !default;
+$fuchent:   #e619e5 !default;
+$fuchdark: #b814b8 !default;
+
 // Body
 
-//$body-bg:                   $gray-900 !default;
-//$body-color:                $white !default;
-//@function body-mix($weight) {
-//    @return mix($body-bg, $body-color, $weight);
-//}
+$body-bg:                   $gray-900 !default;
+$body-color:                $white !default;
+@function body-mix($weight) {
+    @return mix($body-bg, $body-color, $weight);
+}
 
 //$primary:       $blue !default;
 //$secondary:     body-mix(85%) !default;
@@ -53,41 +58,31 @@ $cyan:    #3498db !default;
 
 // Links
 
-$link-color:                $yellow ;
+$link-color:                $yellow;
+$hover-color: darken($link-color, 10%);
+$visited-color: lighten($link-color, 10%);
 
-/* unvisited link */
-//a:link {
-//  color: $cyan;
-//}
-
-/* visited link */
-//a:visited {
-//  color: $purple;
-//}
-
-/* mouse over link */
-//a:hover {
-//  color: $red;
-//}
-/* selected link */
-//a:active {
-//  color: $cyan;
-//}
-
-a {
-   color: $red;
-   text-decoration: none;
-   color: $red;
-
-   &:visited{
-    opacity: 0.42;
-  }
+//link styling
+a{
+  color: $link-color;
+  text-decoration: none;
+  
   &:hover{
-    opacity: 0.7;
-    text-decoration: underline;
+    color: $hover-color;
   }
-  &:active{
-    opacity: 1;
-    text-decoration: none;
+  
+  &:visited{
+    color: $visited-color;
   }
 }
+
+// headers
+
+h3 {
+  color: violet;
+}
+
+
+
+
+
