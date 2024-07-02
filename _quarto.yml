@@ -14,21 +14,24 @@ website:
   sidebar: 
     style: docked
     contents: 
-      - section: "Einträge"
-        contents: 
-        - href: docs/entries/entry1.qmd
-          text: mein erster Eintrag
-        - href: docs/entries/entry2.qmd
-          text: zweiter Eintrag
-      - section: "Dinos"
-        contents: 
-        - href: docs/dinos/dino_example.qmd
-          text: Intro on Dinos
+      #- section: "Einträge"
+      #  contents: 
+      #  - href: docs/entries/entry1.qmd
+      #    text: mein erster Eintrag
+      #  - href: docs/entries/entry2.qmd
+      #    text: zweiter Eintrag
       - section: "Biologie"
         contents: 
           #- href: docs/entries/entry1.qmd
           #text: Wechseljahre
-  
+      - section: "Dinos"
+        contents: 
+        - href: docs/dinos/dino_example.qmd
+          text: Intro on Dinos
+      - section: "Psychologie"
+        contents: 
+        - href: docs/psychologie/reaction_paper_TwinStudies.qmd
+          text: "Reaction Paper: Zwillingsstudien"
   page-footer: 
     center: "Copyright 2024, Edna Grewers"
     right: 
