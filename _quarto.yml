@@ -40,4 +40,4 @@ website:
   
 format: 
   html: 
-    theme: darkly
+    theme: darkly.scss
