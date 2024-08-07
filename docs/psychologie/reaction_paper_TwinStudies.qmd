@@ -1,10 +1,13 @@
 ---
 title: "Reaction Paper zu „what can we learn from twin studies? A comprehensive evaluation of the equal environment assumption“ von Felson (2014) "
-#author: "Edna Grewers"
+author: "Edna Grewers"
+date: 02 Jul 2024
+abstract-title: CN
+abstract: "Zwillingsstudien, Genetik"
 editor: visual
 ---
 
-[*CN: Zwillingsstudien, Genetik.*]{style="color:darkgreen"} [published: 02 Jul 2024 by Edna Grewers]{style="color:gray"}
+
 
 Zwillingsstudien werden eingesetzt, um zu untersuchen inwiefern Genetik menschliche Merkmale und Verhalten beeinflusst. Anders als bei genomweiten Studien, bei denen sich einzelne Genotypen oder SNPs angeschaut werden, untersucht man die Unterschiede von eineiigen oder monozygoten Zwillingen (MZ), die sich 100% ihrer DNA teilen, und zweieiigen oder dizygoten Zwillingen (DZ), die sich im Schnitt nur 50% ihrer DNA teilen, vergleichbar mit anderen Geschwistern. Das Design gibt damit nicht nur Aufschluss über einzelne Geninformationen (Genotypen), sondern auch über ihre Ausprägungen (Phänotypen), da epigenetische Anlagen mitvererbt werden können. Dabei wird davon ausgegangen, dass Zwillinge die gleiche Umwelt haben, d.h. gleichalt sind, bei den gleichen Eltern groß werden, den gleichen sozioökonomischen Hintergrund haben, etc. und Unterschiede im Phänotyp primär durch genetische Variation oder andere nicht Umwelt bedingte Einflüsse verursacht sind. Diese Annahme heißt in der Literatur equal environment assumption (EEA).
 
